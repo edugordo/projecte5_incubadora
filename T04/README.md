@@ -41,4 +41,4 @@ Configura una màquina virtual amb les següents característiques:
 ### 🏷️ Configuració inicial
 - Canvia el nom de l’equip a:  
 
-[T04](Activitat.md)
+## [T04](Activitat.md)
