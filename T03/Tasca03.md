@@ -172,6 +172,7 @@ Ara, en el client instal·lem WireShark
 ![Imatge](IMG/29.png)
 
 I comprovem que hi ha intercanvi de informació entre el sevidor i el client amb el protocol TCP o FTP
+
 ---
 
 ![Imatge](IMG/30.png)
