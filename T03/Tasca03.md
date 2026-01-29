@@ -42,7 +42,7 @@ Iniciem sessió com a *root*
 
 ![Imatge](IMG/8.png)
 
-Copiem l'arxiu en format **.bak*
+Copiem l'arxiu del servei en format **.bak*
 
 ---
 
@@ -123,7 +123,8 @@ En el quadrat de l'estat ha d'apareixer un misatge com aquest indicant-nos que l
 
 Entrem a la terminal de PowerShell y escribim la següent comanda:
 ftp IP
-Iniciarem sessió amb l'usuari del servidor que vulguem i la contrasenya assignada a aquell usuari
+Iniciarem sessió amb l'usuari del servidor que vulguem i la contrasenya assignada a aquell usuari.
+Al iniciar sessió podrem veure tots els fitxers que hi hagi creats en el directori de l'usuari
 
 ---
 
