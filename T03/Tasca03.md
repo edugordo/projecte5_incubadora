@@ -1,4 +1,4 @@
-# T03 - Seveis dde Tranferència de Fitxers
+# T03 - Serveis de Tranferència de Fitxers
 ## SMX 2A | Edu Gordo Cebrià
 
 ---
