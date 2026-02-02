@@ -202,4 +202,7 @@ Ara, en el FileZilla, iniciem sessió amb la IP sel servidor i amb el nom i la c
 
 ---
 
+## Part 2 - SFTP
+
+
 I amb aixó conclueix aquesta activitat pràctica.
